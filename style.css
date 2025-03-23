@@ -1,0 +1,7 @@
+img {
+    width: 150px;
+}
+marquee {
+    padding-top: 20%;
+    transition: all 0.5s;
+}
